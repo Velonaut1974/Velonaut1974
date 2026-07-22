@@ -35,6 +35,7 @@ Currently developing the skills to make that happen.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 📚 **[The Diodati Debtors](https://github.com/andreas-politzer/the-diodati-debtors)** | Community library platform for book clubs featuring lending, reviews, discussions and AI-assisted book summaries. | Reflex · Python · SQLAlchemy · MySQL |
 | [Velonaut Platform](https://github.com/andreas-politzer/velonaut-platform) | Maritime carbon compliance infrastructure — EU ETS & FuelEU Maritime | Python · Ed25519 · Event Sourcing |
 | [Quatermain's Python Quest](https://github.com/andreas-politzer/Quatermain_Python_Quest) | Retro 8-bit arcade desktop quiz for PCEP certification training | Python · customtkinter · PyInstaller |
 | [WBS Drive Sync](https://github.com/andreas-politzer/WBS-Google-Drive-Sync) | Desktop tool to sync Google Drive folders locally | Python, customtkinter |
