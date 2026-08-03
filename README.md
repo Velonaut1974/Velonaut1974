@@ -81,4 +81,4 @@ Currently developing the skills to make that happen.
 
 ---
 
-📬 [hello@velonautics.com](mailto:hello@velonautics.com)
+📬 [andreas.politzer@ik.me](andreas.politzer@ik.me)
